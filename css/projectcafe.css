@@ -1,0 +1,23 @@
+.line {
+    font-family: Vladimir Script;
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(255, 130, 27);
+}
+
+.snap {
+    height: 100px;
+    width: 300px;
+}
+
+.logo img {
+    margin-top: -28px;
+}
+
+.offer3:hover {
+    border: 7px solid #D1C6B2;
+}
+
+p {
+    font-size: 26px;
+}

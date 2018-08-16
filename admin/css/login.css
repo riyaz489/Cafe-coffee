@@ -1,0 +1,64 @@
+.login1 {
+    background-image: url(../../IMAGES/photo.jpg);
+    height: 100%;
+    width: 100%;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+}
+
+.image {
+    height: 400px;
+    width: 500px;
+    margin-left: 80PX;
+    margin-top: 150px;
+    float: left;
+}
+
+.table {
+    height: 340px;
+    width: 480px;
+    border: 5px solid white;
+    margin-left: 170PX;
+    margin-top: 110px;
+    float: left;
+    border-radius: 25px;
+}
+
+.a {
+    color: black;
+    width: 180px;
+    height: 37px;
+    font-size: 25px;
+    border-radius: 20px;
+    font-family: Vladimir Script;
+    margin-top: 25px;
+    margin-left: 40px;
+    background-color: rgba(162, 232, 252, 0.67);
+    text-align: center;
+}
+
+.b {
+    margin-left: 140px;
+    margin-top: 20px;
+    border-radius: 25px;
+    width: 200px;
+    height: 40px;
+    font-family: Vladimir Script;
+    font-size: 25px;
+    background-color: rgba(236, 22, 22, 0.66);
+}
+
+button {
+    width: 180px;
+    height: 37px;
+    font-size: 25px;
+    border-radius: 20px;
+    font-family: Vladimir Script;
+    background-color: rgba(228, 79, 98, 0.67);
+    text-align: center;
+}
+
+button a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
